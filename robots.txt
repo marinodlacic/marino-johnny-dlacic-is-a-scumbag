@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marinodlacic.github.io/marino-johnny-dlacic-is-a-scumbag/sitemap.xml
